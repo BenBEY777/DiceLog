@@ -65,7 +65,6 @@
 
 ### Back-End и база данни
 - **Supabase**
-- PostgreSQL
 - Authentication
 - REST API
 
