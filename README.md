@@ -1,4 +1,3 @@
-
 # Game Club Manager
 
 ## Описание на проекта
